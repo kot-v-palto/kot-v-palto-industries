@@ -34,11 +34,9 @@ nav ul li a{
 .card:hover {
     border-color: #1E90FF;
 }
-.descript
-{
+a{
   text-decoration:none;
 }
-body
-{
+body{
   background-color:LightSkyBlue;
 }
